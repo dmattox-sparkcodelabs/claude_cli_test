@@ -18,7 +18,12 @@ This project explores how the Claude CLI handles conversation context when calle
 ## Installation
 
 1. Clone or download this project
-2. Install dependencies:
+2. Initialize Claude CLI in the project directory:
+   ```bash
+   claude --init
+   ```
+   This creates the necessary configuration for Claude to work in this directory and enables conversation history storage.
+3. Install dependencies:
    ```bash
    npm install
    ```
