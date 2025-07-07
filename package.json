@@ -1,0 +1,12 @@
+{
+  "name": "claude-cli-test",
+  "version": "1.0.0",
+  "description": "Test app for calling Claude CLI from Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["claude", "cli", "test"],
+  "author": "dmattox@sparkcodelabs.com",
+  "license": "MIT"
+}
